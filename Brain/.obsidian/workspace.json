@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "24e0c0fdc49873d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c072c031530ebfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d855c8411a3994f7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Clean Code.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Clean Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d512dcf474d613a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "171dec61e66ca0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3098dbe972027d6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "428d137d47b8a431",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3725ba7ada2aff0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddabf35661492bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3910d41ad64c515e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3893cf402bdb89b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clean Code.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Clean Code"
+            }
+          },
+          {
+            "id": "122a518bf45f88f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clean Code.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Clean Code"
+            }
+          },
+          {
+            "id": "cab12f75e0a9f700",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ba1a2945e45dff2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clean Code.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Clean Code"
+            }
+          },
+          {
+            "id": "1d548bb866dde240",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1002.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1d548bb866dde240",
+  "lastOpenFiles": [
+    "test.md",
+    "Clean Code.pdf",
+    "Methods.md",
+    "Clean Code.md",
+    "Welcome.md"
+  ]
+}
