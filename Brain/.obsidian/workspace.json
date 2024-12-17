@@ -6,21 +6,10 @@
       {
         "id": "2c072c031530ebfd",
         "type": "tabs",
+        "dimension": 55.34161490683229,
         "children": [
           {
             "id": "aadbeedb12053d32",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Clean Code/assets/Clean Code.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Clean Code"
-            }
-          },
-          {
-            "id": "e9e11c7214169c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,15 +22,15 @@
               "title": "Clean Code"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "4e0774d8ee9ad4a0",
+        "id": "1d1b22c5602fd2ac",
         "type": "tabs",
+        "dimension": 44.6583850931677,
         "children": [
           {
-            "id": "d855c8411a3994f7",
+            "id": "628c481f574fc5a4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -167,9 +156,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Clean Code/assets/Clean Code.pdf"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Clean Code"
             }
           },
           {
@@ -187,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1213.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3098dbe972027d6d",
+  "active": "628c481f574fc5a4",
   "lastOpenFiles": [
-    "Clean Code/assets",
-    "Clean Code",
     "Clean Code/Clean Code.md",
     "Clean Code/assets/Clean Code.pdf",
+    "Clean Code/assets",
+    "Clean Code",
     "Methods.md",
     "Welcome.md"
   ]
