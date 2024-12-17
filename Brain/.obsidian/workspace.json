@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "628c481f574fc5a4",
+  "active": "aadbeedb12053d32",
   "lastOpenFiles": [
     "Clean Code/Clean Code.md",
     "Clean Code/assets/Clean Code.pdf",
