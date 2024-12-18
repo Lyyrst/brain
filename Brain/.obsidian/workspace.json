@@ -4,33 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "2c072c031530ebfd",
+        "id": "1d1b22c5602fd2ac",
         "type": "tabs",
-        "dimension": 55.34161490683229,
         "children": [
           {
-            "id": "aadbeedb12053d32",
+            "id": "628c481f574fc5a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clean Code/Clean Code.md",
+                "file": "SCUB/In-production flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean Code"
+              "title": "In-production flow"
+            }
+          },
+          {
+            "id": "bd6b34b05c9ac5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCUB/snapshot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "snapshot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "1d1b22c5602fd2ac",
+        "id": "02bb1b6a50c58bdc",
         "type": "tabs",
-        "dimension": 44.6583850931677,
         "children": [
           {
-            "id": "628c481f574fc5a4",
+            "id": "56a2a53d42bd4cb2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -91,8 +104,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aadbeedb12053d32",
+  "active": "56a2a53d42bd4cb2",
   "lastOpenFiles": [
+    "SCUB/snapshot.md",
+    "SCUB/In-production flow.md",
+    "SCUB",
+    "Spring",
     "Clean Code/Clean Code.md",
     "Clean Code/assets/Clean Code.pdf",
     "Clean Code/assets",
