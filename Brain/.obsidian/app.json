@@ -2,5 +2,6 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "alwaysUpdateLinks": true
 }

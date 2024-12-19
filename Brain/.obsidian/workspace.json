@@ -8,48 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "628c481f574fc5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCUB/In-production flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In-production flow"
-            }
-          },
-          {
             "id": "bd6b34b05c9ac5aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCUB/snapshot.md",
+                "file": "Dev/SCUB/production flow/Production flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "snapshot"
+              "title": "Production flow"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "02bb1b6a50c58bdc",
+        "id": "0842b3640367c60a",
         "type": "tabs",
         "children": [
           {
-            "id": "56a2a53d42bd4cb2",
+            "id": "eab8d20c807952d3",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "6001aa9a33a6dc37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Infra/CI-CD.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CI-CD"
             }
           }
         ]
@@ -205,16 +204,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56a2a53d42bd4cb2",
+  "active": "3098dbe972027d6d",
   "lastOpenFiles": [
-    "SCUB/snapshot.md",
-    "SCUB/In-production flow.md",
-    "SCUB",
-    "Spring",
-    "Clean Code/Clean Code.md",
-    "Clean Code/assets/Clean Code.pdf",
-    "Clean Code/assets",
-    "Clean Code",
+    "Dev/testing/Non-regression test.md",
+    "Dev/Infra/CI-CD.md",
+    "Dev/SCUB/production flow/rc-version.md",
+    "Dev/SCUB/production flow/snapshot.md",
+    "Dev/SCUB/production flow/Production flow.md",
+    "Dev/testing/JUnit.md",
+    "Dev/testing/Manual Testing.md",
+    "Dev/testing",
+    "Dev",
+    "Dev/Infra/Pipelines.md",
+    "Dev/testing/Automated Testing.md",
+    "Dev/Infra",
+    "SCUB.md",
+    "SCUB/SCUB.md",
+    "Dev/Clean Code/Clean Code pdf.md",
+    "Dev/SCUB/production flow",
+    "Dev/SCUB",
+    "Dev/Spring",
+    "Dev/Clean Code/assets/Clean Code.pdf",
+    "Dev/Clean Code/assets",
+    "Dev/Clean Code",
     "Methods.md",
     "Welcome.md"
   ]
