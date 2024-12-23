@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dev/SCUB/production flow/release pipelines.canvas",
                 "viewState": {
-                  "x": 20.60111921371066,
-                  "y": 178.73744880019504,
-                  "zoom": -0.9422030522825146
+                  "x": -545.2961122898694,
+                  "y": -104.21116695159498,
+                  "zoom": -1.3422030522825146
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -86,7 +86,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,8 @@
   },
   "active": "bd6b34b05c9ac5aa",
   "lastOpenFiles": [
-    "Dev/SCUB/production flow/Production flow.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
+    "Dev/SCUB/production flow/Production flow.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-12-23 11.45.53.excalidraw.md",
     "Excalidraw",
