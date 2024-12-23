@@ -1,114 +1,18 @@
 {
   "nodes": [
     {
-      "id": "fea04a1f44558e0f",
-      "type": "text",
-      "text": "<center><h1>package-release</h2></center>",
-      "styleAttributes": {},
-      "x": -50,
-      "y": -240,
-      "width": 350,
-      "height": 100
-    },
-    {
-      "id": "d2f58e0c640f5100",
-      "type": "text",
-      "text": "<center><h3>publish-back-prp</center>",
-      "styleAttributes": {},
-      "x": -350,
-      "y": 320,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "ce74ed5054758d16",
-      "type": "text",
-      "text": "<center><h2>OPENSTACK</center>",
-      "styleAttributes": {},
-      "x": -650,
-      "y": 60,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "7ed5962586a6092e",
-      "type": "text",
-      "text": "<center><h3>publish-back-rec</center>",
-      "styleAttributes": {},
-      "x": -950,
-      "y": 320,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "4f130d7df65e6b84",
-      "type": "text",
-      "text": "<center><h2>AWS</center>",
-      "styleAttributes": {},
-      "x": 640,
-      "y": 60,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "a1884967ec384e90",
-      "type": "text",
-      "text": "<center><h3>elasticbeanstalk</center>",
-      "styleAttributes": {},
-      "x": 340,
-      "y": 320,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "41a15698e4d1e4bd",
-      "type": "text",
-      "text": "<center><h4>deploy aws</center>",
-      "styleAttributes": {},
-      "x": 340,
-      "y": 640,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "9fa336f17d8c25f3",
-      "type": "text",
-      "text": "<center><h3>elasticbeanstalk-preprod</center>",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 320,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "c0f61ab8fc04dc1f",
-      "type": "text",
-      "text": "<center><h4>deploy-aws-preprod</center>",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 640,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "07aca6cfc2315038",
-      "type": "text",
-      "text": "<center><h1>package</h2></center>",
-      "styleAttributes": {},
-      "x": -782,
-      "y": -240,
-      "width": 265,
-      "height": 100
-    },
-    {
-      "id": "550cb3002a2a3dcc",
-      "type": "text",
-      "text": "<center><h1>Branche</h2></center>",
-      "styleAttributes": {},
-      "x": -400,
-      "y": -580,
-      "width": 265,
-      "height": 100
+      "id": "b55618ed8a7582f0",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -1120,
+      "y": -600,
+      "width": 2543,
+      "height": 1430,
+      "label": "Start Slide"
     },
     {
       "id": "3198edd0f02c3a32",
@@ -118,7 +22,7 @@
       "x": -2400,
       "y": -720,
       "width": 1255,
-      "height": 1460
+      "height": 1080
     },
     {
       "id": "e895e3e160ba23c3",
@@ -129,6 +33,116 @@
       "y": -720,
       "width": 147,
       "height": 60
+    },
+    {
+      "id": "ce74ed5054758d16",
+      "type": "text",
+      "text": "<center><h2>OPENSTACK</center>",
+      "styleAttributes": {},
+      "x": -747,
+      "y": 120,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "7ed5962586a6092e",
+      "type": "text",
+      "text": "<center><h3>publish-back-rec</center>",
+      "styleAttributes": {},
+      "x": -1047,
+      "y": 380,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "d2f58e0c640f5100",
+      "type": "text",
+      "text": "<center><h3>publish-back-prp</center>",
+      "styleAttributes": {},
+      "x": -447,
+      "y": 380,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "a1884967ec384e90",
+      "type": "text",
+      "text": "<center><h3>elasticbeanstalk</center>",
+      "styleAttributes": {},
+      "x": 243,
+      "y": 380,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "41a15698e4d1e4bd",
+      "type": "text",
+      "text": "<center><h4>deploy aws</center>",
+      "styleAttributes": {},
+      "x": 243,
+      "y": 700,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "4f130d7df65e6b84",
+      "type": "text",
+      "text": "<center><h2>AWS</center>",
+      "styleAttributes": {},
+      "x": 543,
+      "y": 120,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "9fa336f17d8c25f3",
+      "type": "text",
+      "text": "<center><h3>elasticbeanstalk-preprod</center>",
+      "styleAttributes": {},
+      "x": 843,
+      "y": 380,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "c0f61ab8fc04dc1f",
+      "type": "text",
+      "text": "<center><h4>deploy-aws-preprod</center>",
+      "styleAttributes": {},
+      "x": 883,
+      "y": 700,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "07aca6cfc2315038",
+      "type": "text",
+      "text": "<center><h1>package</h2></center>",
+      "styleAttributes": {},
+      "x": -879,
+      "y": -180,
+      "width": 265,
+      "height": 100
+    },
+    {
+      "id": "550cb3002a2a3dcc",
+      "type": "text",
+      "text": "<center><h1>Branche</h2></center>",
+      "styleAttributes": {},
+      "x": -497,
+      "y": -520,
+      "width": 265,
+      "height": 100
+    },
+    {
+      "id": "fea04a1f44558e0f",
+      "type": "text",
+      "text": "<center><h1>package-release</h2></center>",
+      "styleAttributes": {},
+      "x": -147,
+      "y": -180,
+      "width": 350,
+      "height": 100
     }
   ],
   "edges": [
@@ -165,7 +179,7 @@
       "fromSide": "bottom",
       "toNode": "c0f61ab8fc04dc1f",
       "toSide": "top",
-      "color": "1",
+      "color": "4",
       "label": "\"preprod\""
     },
     {
@@ -211,7 +225,7 @@
       "toNode": "fea04a1f44558e0f",
       "toSide": "top",
       "color": "6",
-      "label": "interface gitlab"
+      "label": "interface git"
     },
     {
       "id": "df07e24d6bb43980",
@@ -219,7 +233,7 @@
       "fromSide": "bottom",
       "toNode": "07aca6cfc2315038",
       "toSide": "top",
-      "label": "push ou interface"
+      "label": "push - interface git"
     }
   ],
   "metadata": {}
