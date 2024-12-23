@@ -30,3 +30,5 @@ Pre-production environment is mean to be similar from the production. Both the c
 The application is release to the client, from the last [[rc-version]] validated. the last [[rc-version]] is clone to master.
 
 Fixing critical bugs in production stage is done by editing directly on master and releasing it to the client.
+
+![[release pipelines.canvas|release pipelines]]
