@@ -11,17 +11,14 @@
             "id": "bf5641fd2cb95121",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dev/SCUB/production flow/release pipelines.canvas",
-                "viewState": {
-                  "x": 124.45850896921058,
-                  "y": 185.8204463710247,
-                  "zoom": -0.7851480355826047
-                }
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "release pipelines"
+              "icon": "lucide-file",
+              "title": "todo"
             }
           },
           {
@@ -193,8 +190,8 @@
   },
   "active": "bf5641fd2cb95121",
   "lastOpenFiles": [
-    "todo.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
+    "todo.md",
     "Dev/SCUB/production flow/snapshot.md",
     "Dev/testing/Automated Testing.md",
     "Dev/testing/Manual Testing.md",

@@ -1,1 +1,8 @@
-modifier pour avoir une valeur par default defini sur la recette
+- listes electorales
+- obsidian Generator -> schema d'exemple
+- ft_malloc
+- ft_free
+- ft_realloc
+- ft_nm
+- App courses
+- App FDJ
