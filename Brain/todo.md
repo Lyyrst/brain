@@ -1,6 +1,10 @@
-- ft_malloc
-- ft_free
-- ft_realloc
+- ft_malloc :
+	- logs
+	- free
+		- defragment
+	- realloc
+	- show_memory
+	- show_memory_ex
 - ft_nm
 - App courses
 - App FDJ
