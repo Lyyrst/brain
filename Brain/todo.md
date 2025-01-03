@@ -1,5 +1,4 @@
 - ft_malloc :
-	- logs
 	- free
 		- defragment
 	- realloc
