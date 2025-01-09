@@ -1,5 +1,7 @@
-- ft_malloc :
-	- environment variable
-- ft_nm
+- ft_nm :
+	- missing types
+	- too much symbols
+	- sort with flags
+	- free structs
 - App courses
 - App FDJ
