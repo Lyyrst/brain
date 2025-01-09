@@ -1,9 +1,5 @@
 - ft_malloc :
-	- free
-		- defragment
-	- realloc
-	- show_memory
-	- show_memory_ex
+	- environment variable
 - ft_nm
 - App courses
 - App FDJ
