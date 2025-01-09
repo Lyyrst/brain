@@ -11,14 +11,17 @@
             "id": "bf5641fd2cb95121",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "todo.md",
-                "mode": "preview",
-                "source": false
+                "file": "Dev/SCUB/production flow/release pipelines.canvas",
+                "viewState": {
+                  "x": 153.43729718397833,
+                  "y": 95.64988066853775,
+                  "zoom": -1.727186574885232
+                }
               },
-              "icon": "lucide-file",
-              "title": "todo"
+              "icon": "lucide-layout-dashboard",
+              "title": "release pipelines"
             }
           },
           {
@@ -190,6 +193,7 @@
   },
   "active": "bf5641fd2cb95121",
   "lastOpenFiles": [
+    "Dev/SCUB/production flow/Production flow.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
     "todo.md",
     "Dev/SCUB/production flow/snapshot.md",
@@ -198,7 +202,6 @@
     "Dev/testing/Non-regression test.md",
     "Dev/testing/JUnit.md",
     "Dev/SCUB/production flow/rc-version.md",
-    "Dev/SCUB/production flow/Production flow.md",
     "Dev/Infra/Pipelines.md",
     "Dev/Infra/CI-CD.md",
     "Untitled.canvas",
