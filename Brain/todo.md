@@ -3,5 +3,12 @@
 	- too much symbols
 	- sort with flags
 	- free structs
+- linkedin
 - App courses
 - App FDJ
+
+
+##### SCUB
+- wiki des release
+- script des release
+- tache cedric cote back

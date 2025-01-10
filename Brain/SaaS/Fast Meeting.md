@@ -1,6 +1,6 @@
 #SaaSIdea 
 ### Plateforme de consultations rares en ligne
-*> Éco-conseillers, vétérinaires spécialisés NAC, soignants ou conseillers rares et difficiles à trouver.
+*> Éco-conseillers, vétérinaires spécialisés NAC, soignants ou conseillers rares et difficiles à trouver.*
 
 **Pourquoi ?** Les conseillers, soignants ou consultants sur des sujets spécifiques sont rares et souvent éloignés de nous.
 
