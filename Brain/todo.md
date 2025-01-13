@@ -1,4 +1,5 @@
-- prenom hamster
+- css 14 fev
+- commande : 14 fev 
 - liste de courses et de repas
 - SaaS Idea
 - ft_nm :
@@ -12,5 +13,4 @@
 
 
 ##### SCUB
-- script des release
 - tache cedric cote back
