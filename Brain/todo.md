@@ -9,6 +9,5 @@
 
 
 ##### SCUB
-- wiki des release
 - script des release
 - tache cedric cote back

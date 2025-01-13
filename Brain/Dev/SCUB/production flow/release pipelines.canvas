@@ -57,11 +57,11 @@
     {
       "id": "07aca6cfc2315038",
       "type": "text",
-      "text": "<center><h1>package</h2></center>",
+      "text": "<center><h1>build-test</h2></center>",
       "styleAttributes": {},
       "x": -879,
       "y": -180,
-      "width": 265,
+      "width": 282,
       "height": 100
     },
     {
