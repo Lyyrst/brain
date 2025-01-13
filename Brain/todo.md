@@ -1,3 +1,6 @@
+- prenom hamster
+- liste de courses et de repas
+- SaaS Idea
 - ft_nm :
 	- missing types
 	- too much symbols

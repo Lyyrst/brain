@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meet your Mate.md",
+                "file": "todo.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meet your Mate"
+              "title": "todo"
             }
           }
         ]
@@ -175,13 +175,13 @@
   },
   "active": "1b9b77e57d697e3a",
   "lastOpenFiles": [
+    "Meet your Mate.md",
     "todo.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
     "Dev/SCUB/production flow/Production flow.md",
     "SaaS/Simply Artisans.md",
     "SaaS/portail locataire.md",
     "SaaS/Fast Meeting.md",
-    "Meet your Mate.md",
     "SaaS",
     "Dev/SCUB/production flow/snapshot.md",
     "Dev/testing/Automated Testing.md",
