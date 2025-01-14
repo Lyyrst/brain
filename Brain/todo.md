@@ -1,4 +1,7 @@
 - SaaS Idea
+- ft_malloc:
+	- hosttype
+	- threads safe
 - ft_nm :
 	- missing types
 	- too much symbols
