@@ -49,6 +49,7 @@
       "type": "text",
       "text": "<center><h3>elasticbeanstalk</center>",
       "styleAttributes": {},
+      "lockedHeight": true,
       "x": 243,
       "y": 380,
       "width": 300,
@@ -62,16 +63,6 @@
       "x": -879,
       "y": -180,
       "width": 282,
-      "height": 100
-    },
-    {
-      "id": "550cb3002a2a3dcc",
-      "type": "text",
-      "text": "<center><h1>Branche</h2></center>",
-      "styleAttributes": {},
-      "x": -497,
-      "y": -520,
-      "width": 265,
       "height": 100
     },
     {
@@ -143,6 +134,28 @@
       "y": 700,
       "width": 300,
       "height": 100
+    },
+    {
+      "id": "550cb3002a2a3dcc",
+      "type": "text",
+      "text": "<center><h1>Branche</h2></center>",
+      "styleAttributes": {},
+      "lockedHeight": true,
+      "x": -870,
+      "y": -540,
+      "width": 273,
+      "height": 100
+    },
+    {
+      "id": "dcb2303ce1b85a7c",
+      "type": "text",
+      "text": "<center><h1>Interface gitlab</h2></center>",
+      "styleAttributes": {},
+      "lockedHeight": true,
+      "x": -127,
+      "y": -540,
+      "width": 311,
+      "height": 100
     }
   ],
   "edges": [
@@ -153,7 +166,7 @@
       "toNode": "ce74ed5054758d16",
       "toSide": "top",
       "color": "6",
-      "label": "\"rci\"-\"rcc\"-\"vabf\"-\"prp\""
+      "label": "\"rci\"-\"vabf\"-\"prp\""
     },
     {
       "id": "61ab9c416b56e0ac",
@@ -198,7 +211,7 @@
       "toNode": "7ed5962586a6092e",
       "toSide": "top",
       "color": "1",
-      "label": "\"rci\"-\"rcc\"-\"vabf\""
+      "label": "\"rci\"-\"vabf\""
     },
     {
       "id": "8d9f47e4113e6549",
@@ -219,21 +232,22 @@
       "label": "\"recette\""
     },
     {
-      "id": "e87441d6e68655b7",
-      "fromNode": "550cb3002a2a3dcc",
-      "fromSide": "bottom",
-      "toNode": "fea04a1f44558e0f",
-      "toSide": "top",
-      "color": "6",
-      "label": "interface git"
-    },
-    {
       "id": "df07e24d6bb43980",
       "fromNode": "550cb3002a2a3dcc",
       "fromSide": "bottom",
       "toNode": "07aca6cfc2315038",
       "toSide": "top",
-      "label": "push - interface git"
+      "label": "push"
+    },
+    {
+      "id": "1f445389e736887a",
+      "styleAttributes": {},
+      "fromNode": "dcb2303ce1b85a7c",
+      "fromSide": "bottom",
+      "toNode": "fea04a1f44558e0f",
+      "toSide": "top",
+      "color": "6",
+      "label": "environment-target"
     }
   ],
   "metadata": {}

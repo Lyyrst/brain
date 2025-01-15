@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "todo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -175,13 +175,13 @@
   },
   "active": "c6103bb8e71070de",
   "lastOpenFiles": [
+    "Dev/SCUB/production flow/release pipelines.canvas",
+    "Dev/SCUB/production flow/Production flow.md",
+    "todo.md",
     "SaaS/Simply Artisans.md",
     "SaaS/portail locataire.md",
     "SaaS/Meet your Mate.md",
     "SaaS/Fast Meeting.md",
-    "todo.md",
-    "Dev/SCUB/production flow/release pipelines.canvas",
-    "Dev/SCUB/production flow/Production flow.md",
     "SaaS",
     "Dev/SCUB/production flow/snapshot.md",
     "Dev/testing/Automated Testing.md",

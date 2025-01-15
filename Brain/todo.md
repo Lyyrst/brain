@@ -13,5 +13,4 @@
 
 
 ##### SCUB
-- modification de docs release suite a la suppression de rcc
 - tache cedric cote back
