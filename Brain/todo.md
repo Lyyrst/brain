@@ -10,4 +10,3 @@
 
 
 ##### SCUB
-- tache cedric cote back
