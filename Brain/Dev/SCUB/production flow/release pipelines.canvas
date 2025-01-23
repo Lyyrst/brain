@@ -15,36 +15,6 @@
       "label": "Start Slide"
     },
     {
-      "id": "ce74ed5054758d16",
-      "type": "text",
-      "text": "<center><h2>OPENSTACK</center>",
-      "styleAttributes": {},
-      "x": -747,
-      "y": 120,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "7ed5962586a6092e",
-      "type": "text",
-      "text": "<center><h3>publish-back-rec</center>",
-      "styleAttributes": {},
-      "x": -1047,
-      "y": 380,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "d2f58e0c640f5100",
-      "type": "text",
-      "text": "<center><h3>publish-back-prp</center>",
-      "styleAttributes": {},
-      "x": -447,
-      "y": 380,
-      "width": 300,
-      "height": 100
-    },
-    {
       "id": "a1884967ec384e90",
       "type": "text",
       "text": "<center><h3>elasticbeanstalk</center>",
@@ -106,36 +76,6 @@
       "height": 100
     },
     {
-      "id": "4f130d7df65e6b84",
-      "type": "text",
-      "text": "<center><h2>AWS</center>",
-      "styleAttributes": {},
-      "x": 543,
-      "y": 120,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "9fa336f17d8c25f3",
-      "type": "text",
-      "text": "<center><h3>elasticbeanstalk-preprod</center>",
-      "styleAttributes": {},
-      "x": 843,
-      "y": 380,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "c0f61ab8fc04dc1f",
-      "type": "text",
-      "text": "<center><h4>deploy-aws-preprod</center>",
-      "styleAttributes": {},
-      "x": 883,
-      "y": 700,
-      "width": 300,
-      "height": 100
-    },
-    {
       "id": "550cb3002a2a3dcc",
       "type": "text",
       "text": "<center><h1>Branche</h2></center>",
@@ -155,6 +95,66 @@
       "x": -127,
       "y": -540,
       "width": 311,
+      "height": 100
+    },
+    {
+      "id": "c0f61ab8fc04dc1f",
+      "type": "text",
+      "text": "<center><h4>deploy-aws-preprod</center>",
+      "styleAttributes": {},
+      "x": 883,
+      "y": 700,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "d2f58e0c640f5100",
+      "type": "text",
+      "text": "<center><h3>publish-back-prp</center>",
+      "styleAttributes": {},
+      "x": -447,
+      "y": 380,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "ce74ed5054758d16",
+      "type": "text",
+      "text": "<center><h2>OPENSTACK</center>",
+      "styleAttributes": {},
+      "x": -747,
+      "y": 120,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "7ed5962586a6092e",
+      "type": "text",
+      "text": "<center><h3>publish-back-rec</center>",
+      "styleAttributes": {},
+      "x": -1047,
+      "y": 380,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "4f130d7df65e6b84",
+      "type": "text",
+      "text": "<center><h2>AWS</center>",
+      "styleAttributes": {},
+      "x": 543,
+      "y": 120,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "9fa336f17d8c25f3",
+      "type": "text",
+      "text": "<center><h3>elasticbeanstalk-preprod</center>",
+      "styleAttributes": {},
+      "x": 843,
+      "y": 380,
+      "width": 380,
       "height": 100
     }
   ],
