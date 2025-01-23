@@ -1,4 +1,3 @@
-- scub conf mail
 - SaaS Idea
 - ft_nm :
 	- fichier d'erreurs
@@ -17,3 +16,5 @@
 - Le message du parametre bloquant doit il etre afficher dans le front quand on essaye de lancer un batch ? (vince et matthieu)
 - date de fin set 24h apres la date de debut pour eviter les oubli de supprimer le parametrage en cours apres une MEP (raph)
 - ajouter le parametrage dans la procedure de mis en production (raph)
+- mr documentation
+- distinction providers
