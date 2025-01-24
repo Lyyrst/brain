@@ -1,3 +1,4 @@
+##### Perso
 - SaaS Idea
 - ft_nm :
 	- fichier d'erreurs
@@ -11,4 +12,14 @@
 
 
 ##### SCUB
-- distinction providers
+- integration: dependence java + api + docker base image sps
+- back: providers
+- build tools delete
+- editer les poms parents pour obtenir les bonnes dependences
+- CI / CD : point a voir
+- read me
+- documentation
+
+-> comment tester
+-> comment le merge va se passer
+-> 
