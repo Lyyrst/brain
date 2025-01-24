@@ -11,7 +11,4 @@
 
 
 ##### SCUB
-- Le message du parametre bloquant doit il etre afficher dans le front quand on essaye de lancer un batch ? (vince et matthieu)
-- ajouter le parametrage dans la procedure de mis en production (raph)
-- mr documentation
 - distinction providers
