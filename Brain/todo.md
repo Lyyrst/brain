@@ -17,3 +17,7 @@
 - CI / CD : point a voir
 - read me
 - documentation
+
+-> trigger pipeline only on develop branch
+-> trigger sur la description de la MR
+-> api gitlab mais necessite une application
