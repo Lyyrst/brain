@@ -21,3 +21,5 @@
 -> trigger pipeline only on develop branch
 -> trigger sur la description de la MR
 -> api gitlab mais necessite une application
+
+-> trigger une pipeline uniquement sur develop avec un script qui edit le changelog par une description de commit selon la [conventionnal commit](https://www.conventionalcommits.org/en/v1.0.0/) 
