@@ -1,5 +1,5 @@
 #SaaSIdea  
-### Portail Locataire Collaboratif  
+### Portail Locataire  
 *> Simplifiez les interactions entre bailleurs et locataires grâce à une plateforme unique et accessible.*  
 
 **Pourquoi ?** Les propriétaires et locataires manquent souvent d’outils centralisés pour gérer leurs échanges, documents et paiements de manière fluide et transparente.  
