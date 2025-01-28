@@ -1,6 +1,5 @@
 #SaaSIdea
 
-# SaaSIdea  
 ### Le réseau des créateurs et experts  
 *> Connectez les initiateurs de projets et les talents en quête d’opportunités grâce à une plateforme inspirée des applications de rencontre.*  
 
