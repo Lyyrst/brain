@@ -13,9 +13,11 @@
 
 
 ##### SCUB
+- historique git
 - editer les poms parents pour obtenir les bonnes dependences
-- CI / CD : point a voir
-- read me
+- CI / CD : 
+	- integration: 1 seul stage avec deploy, juste version de projet a renseigner
+	- back: environement version project et integration version, build all
 - documentation
 
 -> trigger pipeline only on develop branch
