@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0361279285423c46",
+        "id": "5db4eef44e7e8ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "307e5d32da6edb36",
+            "id": "1a7c4b352118eeac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SaaS/Use Or Rent.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Use Or Rent"
+              "title": "New tab"
             }
           }
         ]
@@ -173,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "307e5d32da6edb36",
+  "active": "1a7c4b352118eeac",
   "lastOpenFiles": [
+    "SaaS/Use Or Rent.md",
     "SaaS/Simply Artisans.md",
     "SaaS/Service Seeker.md",
     "SaaS/portail locataire.md",
@@ -183,7 +180,6 @@
     "SaaS/Fast Meeting.md",
     "SaaS/Cyber Sucrity.md",
     "todo.md",
-    "SaaS/Use Or Rent.md",
     "Automated Changelog.md",
     "project FC.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
