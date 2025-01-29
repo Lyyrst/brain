@@ -12,6 +12,7 @@
 
 
 ##### SCUB
+- dependencies a ajouter sur le CI
 - CI / CD : 
 	- back: environement version project et integration version, build all
 - documentation
