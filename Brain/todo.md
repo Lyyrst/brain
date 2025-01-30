@@ -12,10 +12,6 @@
 
 
 ##### SCUB
-- dependencies a ajouter sur le CI
-	- cti
-	- mail checker
-	- marketing
 - CI / CD : 
 	- back: environement version project et integration version, build all
 - documentation
