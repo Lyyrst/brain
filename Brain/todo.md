@@ -13,8 +13,6 @@
 
 ##### SCUB
 - dependencies a ajouter sur le CI
-	- auth
-	- batch
 	- cti
 	- mail checker
 	- marketing
