@@ -1,9 +1,8 @@
 ##### Perso
 - ft_nm :
 	- fichier d'erreurs
+	- universal binary
 	- ELF32
-	- sort by ENV
-	- 0 adress
 	- sort with flags
 	- free structs
 	- clean src/
@@ -12,6 +11,5 @@
 
 
 ##### SCUB
-- CI / CD : 
-	- back: environement version project et integration version, build all
+- ajout endpoint info sur les providers
 - documentation
