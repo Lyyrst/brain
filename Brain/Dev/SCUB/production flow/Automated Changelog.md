@@ -1,3 +1,5 @@
+#SCUB 
+
 Il serait possible d'automatiser les fichiers de changelog en 2 points:
 1. La description du change serait presente dans le descriptif du commit de merge
 2. un script vient editer le changelog en prenant en compte la description du commit

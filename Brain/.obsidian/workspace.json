@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "todo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -175,8 +176,10 @@
   },
   "active": "1a7c4b352118eeac",
   "lastOpenFiles": [
-    "todo.md",
+    "Dev/SCUB/production flow/Automated Changelog.md",
     "project FC.md",
+    "Dev/SCUB/production flow/Production flow.md",
+    "todo.md",
     "SaaS/Use Or Rent.md",
     "SaaS/Simply Artisans.md",
     "SaaS/Service Seeker.md",
@@ -185,9 +188,7 @@
     "SaaS/Gege PadeNon.md",
     "SaaS/Fast Meeting.md",
     "SaaS/Cyber Sucrity.md",
-    "Automated Changelog.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
-    "Dev/SCUB/production flow/Production flow.md",
     "SaaS",
     "Dev/SCUB/production flow/snapshot.md",
     "Dev/testing/Automated Testing.md",
