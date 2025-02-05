@@ -1,8 +1,7 @@
 ##### Perso
 - cadeaux
 - ft_nm :
-	- clean src/
-	- test valgrind
+	- all test valgrind
 - fox coding
 - App courses
 - App FDJ
