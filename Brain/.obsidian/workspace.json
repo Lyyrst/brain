@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "Game Dev/level design/Block-Out.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Block-Out"
             }
           }
         ]
@@ -176,8 +176,13 @@
   },
   "active": "1a7c4b352118eeac",
   "lastOpenFiles": [
-    "perso/project FC.md",
+    "Game Dev/assets/blockout_exemple_2.jpg",
+    "Game Dev/assets/blockout_exemple_1.jpg",
+    "Game Dev/level design/Block-Out.md",
+    "Game Dev/assets",
     "todo.md",
+    "Game Dev/level design",
+    "perso/project FC.md",
     "Game Dev/Blender",
     "Game Dev/Unreal Engine",
     "Game Dev",
@@ -207,11 +212,8 @@
     "Excalidraw",
     "Dev/testing",
     "Dev",
-    "Dev/Infra",
     "SCUB.md",
     "SCUB/SCUB.md",
-    "Dev/Clean Code/Clean Code pdf.md",
-    "Dev/SCUB/production flow",
-    "Methods.md"
+    "Dev/Clean Code/Clean Code pdf.md"
   ]
 }
