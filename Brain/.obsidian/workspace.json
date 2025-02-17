@@ -177,8 +177,11 @@
   "active": "1a7c4b352118eeac",
   "lastOpenFiles": [
     "perso/project FC.md",
-    "perso",
     "todo.md",
+    "Game Dev/Blender",
+    "Game Dev/Unreal Engine",
+    "Game Dev",
+    "perso",
     "Dev/SCUB/production flow/release pipelines.canvas",
     "Dev/SCUB/production flow/Automated Changelog.md",
     "Dev/SCUB/production flow/Production flow.md",
@@ -209,9 +212,6 @@
     "SCUB/SCUB.md",
     "Dev/Clean Code/Clean Code pdf.md",
     "Dev/SCUB/production flow",
-    "Dev/SCUB",
-    "Dev/Spring",
-    "Dev/Clean Code/assets/Clean Code.pdf",
     "Methods.md"
   ]
 }
