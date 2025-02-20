@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "c9b47c5189be66c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d20d2b20cc50b19",
+  "active": "c9b47c5189be66c9",
   "lastOpenFiles": [
     "Game Dev/level design/Block-Out.md",
     "Game Dev/assets/blockout_exemple_2.jpg",
