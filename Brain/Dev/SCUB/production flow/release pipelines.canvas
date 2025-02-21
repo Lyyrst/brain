@@ -46,6 +46,68 @@
       "height": 100
     },
     {
+      "id": "550cb3002a2a3dcc",
+      "type": "text",
+      "text": "<center><h1>Branche</h2></center>",
+      "styleAttributes": {},
+      "lockedHeight": true,
+      "x": -1070,
+      "y": -400,
+      "width": 273,
+      "height": 100
+    },
+    {
+      "id": "dcb2303ce1b85a7c",
+      "type": "text",
+      "text": "<center><h1>Interface gitlab</h2></center>",
+      "styleAttributes": {},
+      "lockedHeight": true,
+      "x": -327,
+      "y": -400,
+      "width": 311,
+      "height": 100
+    },
+    {
+      "id": "07aca6cfc2315038",
+      "type": "text",
+      "text": "<center><h1>build-test</h2></center>",
+      "styleAttributes": {},
+      "x": -1079,
+      "y": -40,
+      "width": 282,
+      "height": 100
+    },
+    {
+      "id": "fea04a1f44558e0f",
+      "type": "text",
+      "text": "<center><h1>package-release</h2></center>",
+      "styleAttributes": {},
+      "x": -347,
+      "y": -40,
+      "width": 350,
+      "height": 100
+    },
+    {
+      "id": "ae048aa1820f1a6a",
+      "type": "text",
+      "text": "<center><h1>Generate-tag</center>",
+      "styleAttributes": {},
+      "x": -314,
+      "y": 1160,
+      "width": 357,
+      "height": 100
+    },
+    {
+      "id": "9fa336f17d8c25f3",
+      "type": "text",
+      "text": "<center><h3>elasticbeanstalk-preprod</center>",
+      "styleAttributes": {},
+      "x": 643,
+      "y": 520,
+      "width": 380,
+      "height": 100
+    },
+    {
       "id": "41a15698e4d1e4bd",
       "type": "text",
       "text": "<center><h4>deploy aws</center>",
@@ -103,68 +165,6 @@
       "x": -647,
       "y": 520,
       "width": 300,
-      "height": 100
-    },
-    {
-      "id": "9fa336f17d8c25f3",
-      "type": "text",
-      "text": "<center><h3>elasticbeanstalk-preprod</center>",
-      "styleAttributes": {},
-      "x": 643,
-      "y": 520,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "550cb3002a2a3dcc",
-      "type": "text",
-      "text": "<center><h1>Branche</h2></center>",
-      "styleAttributes": {},
-      "lockedHeight": true,
-      "x": -1070,
-      "y": -400,
-      "width": 273,
-      "height": 100
-    },
-    {
-      "id": "dcb2303ce1b85a7c",
-      "type": "text",
-      "text": "<center><h1>Interface gitlab</h2></center>",
-      "styleAttributes": {},
-      "lockedHeight": true,
-      "x": -327,
-      "y": -400,
-      "width": 311,
-      "height": 100
-    },
-    {
-      "id": "07aca6cfc2315038",
-      "type": "text",
-      "text": "<center><h1>build-test</h2></center>",
-      "styleAttributes": {},
-      "x": -1079,
-      "y": -40,
-      "width": 282,
-      "height": 100
-    },
-    {
-      "id": "fea04a1f44558e0f",
-      "type": "text",
-      "text": "<center><h1>package-release</h2></center>",
-      "styleAttributes": {},
-      "x": -347,
-      "y": -40,
-      "width": 350,
-      "height": 100
-    },
-    {
-      "id": "ae048aa1820f1a6a",
-      "type": "text",
-      "text": "<center><h1>Generate-tag</center>",
-      "styleAttributes": {},
-      "x": -314,
-      "y": 1160,
-      "width": 357,
       "height": 100
     }
   ],

@@ -11,30 +11,20 @@
             "id": "6d20d2b20cc50b19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "todo.md",
-                "mode": "preview",
-                "source": false
+                "file": "Dev/SCUB/production flow/release pipelines.canvas",
+                "viewState": {
+                  "x": -455.5,
+                  "y": 279.99999999999994,
+                  "zoom": -1.6012075958979874
+                }
               },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "c9b47c5189be66c9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-layout-dashboard",
+              "title": "release pipelines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9b47c5189be66c9",
+  "active": "6d20d2b20cc50b19",
   "lastOpenFiles": [
+    "todo.md",
     "Game Dev/level design/Block-Out.md",
     "Game Dev/assets/blockout_exemple_2.jpg",
     "Game Dev/assets/blockout_exemple_1.jpg",
     "Game Dev/assets",
-    "todo.md",
     "Game Dev/level design",
     "perso/project FC.md",
     "Game Dev/Blender",
