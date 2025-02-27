@@ -5,5 +5,9 @@
 
 ##### 42
 - ft_ping:
-
+- stage video:
+	- script
+	- diapo
+	- record
+	- montage
 ##### SCUB
