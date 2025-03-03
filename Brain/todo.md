@@ -11,3 +11,5 @@
 	- record
 	- montage
 ##### SCUB
+- batch in vip:
+	- documentation des batchs
