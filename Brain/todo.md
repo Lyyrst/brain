@@ -1,4 +1,9 @@
 ##### Perso
+- choose 2 plate for each:
+	- red meat:
+	- white meat:
+	- fish:
+	- vegetables:
 - fox coding
 - App courses
 - App FDJ
