@@ -11,7 +11,7 @@ Il s'agit d'un logiciel déjà existant, développé par SCUB et mis en producti
 Il faut pourtant continuer à le maintenir, lui fournir de nouvelles fonctionnalités et l'améliorer en continu pour répondre aux besoins des clients.  
 Les mutuelles et les assurances évoluent au fil des années, et les logiciels qu'elles utilisent doivent suivre cette évolution.
 
-Ce logiciel, c'est donc **SPS Solutions**, un SaaS (_Software as a Service_), destiné aux assurances et aux mutuelles.  
+Ce logiciel, c'est donc **SPS Solutions**, un CRM (Customer Relationship Management), destiné aux assurances et aux mutuelles.  
 Il a pour but de leur fournir une solution de gestion interne de leurs clients, contrats et produits.  
 Il comporte aussi des parties accessibles aux clients des assurances et mutuelles, mais je n'ai pas eu l'occasion de travailler dessus.
 
@@ -33,11 +33,11 @@ Pour prendre en main **SPS Solutions**, j'ai été affecté à la réalisation d
 J'ai commencé par réaliser une **IHM** (_Interface Homme-Machine_) permettant d'échanger avec la base de données depuis le front-end.  
 Le but était d'insérer des créneaux horaires en base de données, qui empêchent l'exécution de tous les **batchs** sur ces mêmes horaires.  
 Les batchs sont des processus longs qui s'exécutent en arrière-plan du serveur pour ne pas surcharger l'API de **SPS**.  
-Ici, il s'agit de requêtes SQL très longues, pouvant s'exécuter sur plusieurs heures.
+Ici, il s'agit de requêtes SQL très longues, pouvant s'exécuter sur plusieurs dizaine de minutes voir plusieurs heures.
 
 #### Système de release
 
-Ensuite, on m'a confié une tâche beaucoup plus lourde en responsabilités. J'ai modifié tout le système de mise en **recette** et **pré-production** du logiciel. Il s'agit ici d'une tâche de **CI/CD**, donc de **DevOps**.
+Ensuite, on m'a confié une tâche beaucoup plus lourde en responsabilités. J'ai modifié tout le système de livraison applicative, autrement dit de mise en **recette** et **pré-production** du logiciel. Il s'agit ici d'une tâche de **CI/CD**, donc de **DevOps**.
 
 Comment une application est-elle déployée sur des environnements de tests ?  
 Elle est d'abord déployée en **recette**, un environnement minimal qui vise à tester uniquement les nouvelles fonctionnalités. Puis, elle est envoyée en **pré-prod**, un environnement identique à la production, donc aux serveurs utilisés par les clients. On y effectue des **tests de non-régression**, visant à identifier si les nouvelles fonctionnalités n'ont pas entraîné de dysfonctionnements sur des fonctionnalités déjà existantes.
@@ -46,7 +46,7 @@ Cette tâche était lourde en responsabilités, car en cas d'erreur, il devient 
 
 #### Feature VIP
 
-Enfin, avec l'aide de deux autres stagiaires, **Henri** et **Yavin**, nous avons développé une nouvelle feature pour les clients : la **feature VIP**.  
+Enfin, avec l'aide de deux autres stagiaires, nous avons développé une nouvelle feature pour les clients : la **feature VIP**.  
 Elle avait pour but de **cloisonner** des personnes dans leur application.
 
 Par exemple, quelqu'un qui n'est pas VIP ne pourra pas accéder aux informations d'un VIP.  

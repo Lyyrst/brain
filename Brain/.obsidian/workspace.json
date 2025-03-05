@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
-                "mode": "source",
+                "file": "Peer Video Internship I.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Peer Video Internship I"
             }
           }
         ],
@@ -191,12 +191,15 @@
   },
   "active": "8d40956a406d751d",
   "lastOpenFiles": [
-    "Peer Video Internship I.md",
-    "Game Dev/level design/Block-Out.md",
-    "todo.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
+    "Dev/SCUB/production flow/rc-version.md",
+    "Dev/SCUB/production flow/Automated Changelog.md",
+    "Dev/SCUB/production flow/Production flow.md",
     "Game Dev/assets/blockout_exemple_2.jpg",
     "Game Dev/assets/blockout_exemple_1.jpg",
+    "todo.md",
+    "Peer Video Internship I.md",
+    "Game Dev/level design/Block-Out.md",
     "Game Dev/assets",
     "Game Dev/level design",
     "perso/project FC.md",
@@ -204,8 +207,6 @@
     "Game Dev/Unreal Engine",
     "Game Dev",
     "perso",
-    "Dev/SCUB/production flow/Automated Changelog.md",
-    "Dev/SCUB/production flow/Production flow.md",
     "SaaS/Use Or Rent.md",
     "SaaS/Simply Artisans.md",
     "SaaS/Service Seeker.md",
@@ -220,7 +221,6 @@
     "Dev/testing/Manual Testing.md",
     "Dev/testing/Non-regression test.md",
     "Dev/testing/JUnit.md",
-    "Dev/SCUB/production flow/rc-version.md",
     "Dev/Infra/Pipelines.md",
     "Dev/Infra/CI-CD.md",
     "Untitled.canvas",
@@ -229,7 +229,6 @@
     "Dev/testing",
     "Dev",
     "SCUB.md",
-    "SCUB/SCUB.md",
-    "Dev/Clean Code/Clean Code pdf.md"
+    "SCUB/SCUB.md"
   ]
 }

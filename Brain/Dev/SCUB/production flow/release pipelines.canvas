@@ -97,6 +97,16 @@
       "height": 100
     },
     {
+      "id": "4f130d7df65e6b84",
+      "type": "text",
+      "text": "<center><h2>AWS</center>",
+      "styleAttributes": {},
+      "x": 343,
+      "y": 260,
+      "width": 300,
+      "height": 100
+    },
+    {
       "id": "ae048aa1820f1a6a",
       "type": "text",
       "text": "<center><h1>Generate-tag</center>",
@@ -144,16 +154,6 @@
       "styleAttributes": {},
       "x": 43,
       "y": 840,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "4f130d7df65e6b84",
-      "type": "text",
-      "text": "<center><h2>AWS</center>",
-      "styleAttributes": {},
-      "x": 343,
-      "y": 260,
       "width": 300,
       "height": 100
     },
