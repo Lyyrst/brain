@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peer Video Internship I.md",
-                "mode": "preview",
+                "file": "todo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peer Video Internship I"
+              "title": "todo"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "8d40956a406d751d",
   "lastOpenFiles": [
-    "Game Dev/level design/Block-Out.md",
     "Peer Video Internship I.md",
+    "Game Dev/level design/Block-Out.md",
     "todo.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
     "Game Dev/assets/blockout_exemple_2.jpg",
