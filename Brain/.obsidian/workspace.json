@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "Game Dev/level design/Block-Out.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Block-Out"
+            }
+          },
+          {
+            "id": "8d40956a406d751d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peer Video Internship I.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peer Video Internship I"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,11 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d20d2b20cc50b19",
+  "active": "8d40956a406d751d",
   "lastOpenFiles": [
-    "Dev/SCUB/production flow/release pipelines.canvas",
-    "todo.md",
     "Game Dev/level design/Block-Out.md",
+    "Peer Video Internship I.md",
+    "todo.md",
+    "Dev/SCUB/production flow/release pipelines.canvas",
     "Game Dev/assets/blockout_exemple_2.jpg",
     "Game Dev/assets/blockout_exemple_1.jpg",
     "Game Dev/assets",
