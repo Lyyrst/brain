@@ -1,4 +1,5 @@
 ##### Perso
+- se renseigner sur les formats d'entreprises
 - choose 2 plate for each:
 	- red meat:
 		- piece de viande a la sauce au poivre
