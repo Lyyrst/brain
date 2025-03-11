@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8a15ab9d7b5957",
+        "id": "2b5aba9edb8453df",
         "type": "tabs",
         "children": [
           {
-            "id": "c8edb2e58d1a98a5",
+            "id": "31aeaa44d8c0bf8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "perso/project FC.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "project FC"
+              "title": "New tab"
             }
           }
         ]
@@ -174,17 +170,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8edb2e58d1a98a5",
+  "active": "31aeaa44d8c0bf8d",
   "lastOpenFiles": [
-    "todo.md",
-    "perso/Listychef/ListyChef.md",
-    "perso/Listychef/ShareIt.md",
-    "perso/Listychef/Dinning Plan.md",
     "perso/Listychef/Groceries items.md",
     "perso/Listychef/Groceries List.md",
+    "perso/Listychef/ListyChef.md",
+    "perso/project FC.md",
+    "todo.md",
+    "perso/Listychef/ShareIt.md",
+    "perso/Listychef/Dinning Plan.md",
     "perso/Listychef/Recipes.md",
     "perso/Listychef",
-    "perso/project FC.md",
     "SaaS/Use Or Rent.md",
     "SaaS/Simply Artisans.md",
     "SaaS/Service Seeker.md",
