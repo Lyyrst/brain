@@ -10,5 +10,8 @@
 	- record
 	- montage
 ##### SCUB
-- fermer la page contact apres enregistrement vip si utilisateurs non vip -> ticket date de naissance + pop up
+
+- non cocher par default
+- evenement vip
+- ihm personnalisation des portefeuilles
 - mettre a jour distinction providers

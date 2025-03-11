@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/project FC.md",
+                "file": "todo.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project FC"
+              "title": "todo"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "31aeaa44d8c0bf8d",
   "lastOpenFiles": [
-    "todo.md",
     "perso/project FC.md",
+    "todo.md",
     "perso/Listychef/Groceries items.md",
     "perso/Listychef/Groceries List.md",
     "perso/Listychef/ListyChef.md",
