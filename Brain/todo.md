@@ -1,6 +1,5 @@
 ##### Perso
 
-- 
 - fox coding
 - App courses
 - App FDJ
@@ -11,4 +10,5 @@
 	- record
 	- montage
 ##### SCUB
+- fermer la page contact apres enregistrement vip si utilisateurs non vip -> ticket date de naissance + pop up
 - mettre a jour distinction providers

@@ -11,10 +11,14 @@
             "id": "31aeaa44d8c0bf8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "perso/project FC.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "project FC"
             }
           }
         ]
@@ -172,11 +176,11 @@
   },
   "active": "31aeaa44d8c0bf8d",
   "lastOpenFiles": [
+    "todo.md",
+    "perso/project FC.md",
     "perso/Listychef/Groceries items.md",
     "perso/Listychef/Groceries List.md",
     "perso/Listychef/ListyChef.md",
-    "perso/project FC.md",
-    "todo.md",
     "perso/Listychef/ShareIt.md",
     "perso/Listychef/Dinning Plan.md",
     "perso/Listychef/Recipes.md",

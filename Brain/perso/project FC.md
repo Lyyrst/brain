@@ -11,7 +11,7 @@ No posting before having 3 month ready to post, so 6 videos and 24 shorts.
 ##### Road Map first 3 month:
 ->1st month:
 
-	- Video: I'm building a web/mobile app from nothing, where i'm going ?
+	- Video: Making a mobile app for the first time
 		- shorts: I'm building this, wish me luck
 		- shorts: The first problem
 	- Video: The first choice i made to build my app
