@@ -6,9 +6,7 @@
 
 ##### 42
 - stage video:
-	- diapo
 	- record
-	- montage
 ##### SCUB
 
 - non cocher par default
