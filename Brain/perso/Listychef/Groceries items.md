@@ -4,7 +4,6 @@ A Grocery item will have:
 
 	- name (String)
 	- quantity (Int)
-	- order (Int)
 	- Shop (List Object):
 		- name (String)
 		- prices (float)
