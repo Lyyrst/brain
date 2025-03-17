@@ -2,11 +2,10 @@
 
 - fox coding
 - App courses
-- App FDJ
 
 ##### 42
 
- - n
+ - darkly
 ##### SCUB
 
-- mettre a jour distinction providers
+- mettre a jour distinction providers + documentation
