@@ -5,7 +5,9 @@
 
 ##### 42
 
- - darkly
+ - darkly:
+	 - script bruteforce
+	 - .hidden
 ##### SCUB
 
 - mettre a jour distinction providers + documentation
