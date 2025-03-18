@@ -35,8 +35,7 @@
               "title": "App JDF"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26663708953d03b6",
+  "active": "2c36ec0f1b7252bf",
   "lastOpenFiles": [
-    "todo.md",
     "perso/App JDF.md",
+    "todo.md",
     "perso/Listychef/Groceries List.md",
     "perso/Listychef/ListyChef.md",
     "perso/Listychef/Groceries items.md",
