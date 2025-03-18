@@ -7,7 +7,6 @@
 ##### 42
 
  - darkly:
-	 - script bruteforce
 	 - .hidden
 ##### SCUB
 
