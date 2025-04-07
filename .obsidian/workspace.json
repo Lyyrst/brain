@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "24e0c0fdc49873d6",
+    "id": "01941f1d80ec6dd4",
     "type": "split",
     "children": [
       {
-        "id": "41844b702210b3aa",
+        "id": "48340280ff0f007c",
         "type": "tabs",
         "children": [
           {
-            "id": "2c36ec0f1b7252bf",
+            "id": "cb69f762246dacb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
-                "mode": "preview",
+                "file": "Brain/todo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "26663708953d03b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "perso/App JDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "App JDF"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d512dcf474d613a6",
+    "id": "806edd1f4a1b0dbf",
     "type": "split",
     "children": [
       {
-        "id": "171dec61e66ca0b8",
+        "id": "f5b64beabcda24ac",
         "type": "tabs",
         "children": [
           {
-            "id": "3098dbe972027d6d",
+            "id": "727fa8ced2bc959c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "428d137d47b8a431",
+            "id": "a94e356392b82d18",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#integration",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "3725ba7ada2aff0d",
+            "id": "0f32e326245334bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "ddabf35661492bba",
+    "id": "51788568fc11a7cf",
     "type": "split",
     "children": [
       {
-        "id": "3910d41ad64c515e",
+        "id": "a7807468c7029d00",
         "type": "tabs",
         "children": [
           {
-            "id": "b3893cf402bdb89b",
+            "id": "07b511aed511cecc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clean Code.pdf",
+                "file": "Brain/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,117 +104,70 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clean Code"
+              "title": "Backlinks for todo"
             }
           },
           {
-            "id": "122a518bf45f88f6",
+            "id": "b8db8d06bd63dc9e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clean Code.pdf",
+                "file": "Brain/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clean Code"
+              "title": "Outgoing links from todo"
             }
           },
           {
-            "id": "cab12f75e0a9f700",
+            "id": "bd9d1ef794504361",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "2ba1a2945e45dff2",
+            "id": "12467ea71b0b390b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clean Code/assets/Clean Code.pdf"
+                "file": "Brain/todo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clean Code"
-            }
-          },
-          {
-            "id": "1d548bb866dde240",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of todo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "26663708953d03b6",
-  "lastOpenFiles": [
-    "todo.md",
-    "perso/App JDF.md",
-    "perso/Listychef/Groceries List.md",
-    "perso/Listychef/ListyChef.md",
-    "perso/Listychef/Groceries items.md",
-    "perso/project FC.md",
-    "Peer Video Internship I.md",
-    "perso/Listychef/ShareIt.md",
-    "perso/Listychef/Dinning Plan.md",
-    "perso/Listychef/Recipes.md",
-    "perso/Listychef",
-    "SaaS/Use Or Rent.md",
-    "SaaS/Simply Artisans.md",
-    "SaaS/Service Seeker.md",
-    "SaaS/portail locataire.md",
-    "SaaS/Meet your Mate.md",
-    "SaaS/Gege PadeNon.md",
-    "SaaS/Fast Meeting.md",
-    "SaaS/Cyber Sucrity.md",
-    "Dev/SCUB/production flow/Automated Changelog.md",
-    "Dev/SCUB/production flow/release pipelines.canvas",
-    "Dev/SCUB/production flow/rc-version.md",
-    "Dev/SCUB/production flow/Production flow.md",
-    "Game Dev/assets/blockout_exemple_2.jpg",
-    "Game Dev/assets/blockout_exemple_1.jpg",
-    "Game Dev/level design/Block-Out.md",
-    "Game Dev/assets",
-    "Game Dev/level design",
-    "Game Dev/Blender",
-    "Game Dev/Unreal Engine",
-    "Game Dev",
-    "perso",
-    "SaaS",
-    "Dev/SCUB/production flow/snapshot.md",
-    "Dev/testing/Automated Testing.md",
-    "Dev/testing/Manual Testing.md",
-    "Dev/testing/Non-regression test.md",
-    "Untitled.canvas",
-    "Excalidraw",
-    "Dev/testing"
-  ]
+  "active": "cb69f762246dacb2",
+  "lastOpenFiles": []
 }

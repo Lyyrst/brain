@@ -2,7 +2,6 @@
 
 - Lire le fichier CSV contenant les tirages précédents.
 - Stocker ces données sous une forme exploitable (tableaux, listes, structures de données adaptées).
-- Vérifier l’intégrité des données (pas de doublons, valeurs correctes, etc.).
 
 ---
 

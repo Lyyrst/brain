@@ -7,4 +7,3 @@
 
 ##### SCUB
 
-- mettre a jour distinction providers + documentation
