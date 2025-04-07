@@ -1,9 +1,10 @@
-##### Perso
+- [[App JDF]]
 
-- fox coding
-- App courses
+- [[ListyChef]]
 
-##### 42
-
-##### SCUB
-
+-> Animations:
+	- falling animation in 2 stages
+	- grab
+	- grapplin
+	- wall silde
+	- wall jump
