@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/App JDF.md",
-                "mode": "source",
+                "file": "Buy list.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App JDF"
+              "title": "Buy list"
             }
           }
         ],
@@ -191,8 +191,9 @@
   },
   "active": "26663708953d03b6",
   "lastOpenFiles": [
-    "todo.md",
     "perso/App JDF.md",
+    "Buy list.md",
+    "todo.md",
     "perso/Listychef/Groceries List.md",
     "perso/Listychef/ListyChef.md",
     "perso/Listychef/Groceries items.md",
@@ -227,7 +228,6 @@
     "Dev/SCUB/production flow/snapshot.md",
     "Dev/testing/Automated Testing.md",
     "Dev/testing/Manual Testing.md",
-    "Dev/testing/Non-regression test.md",
     "Untitled.canvas",
     "Excalidraw",
     "Dev/testing"

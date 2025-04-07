@@ -1,7 +1,6 @@
 ### 1. Charger et analyser les données
 
 - Lire le fichier CSV contenant les tirages précédents.
-- Stocker ces données sous une forme exploitable (tableaux, listes, structures de données adaptées).
 
 ---
 
@@ -37,15 +36,3 @@
 
 ---
 
-### **6. Générer des prévisions**
-
-- À partir des analyses précédentes, générer un ensemble de combinaisons probables pour le prochain tirage.
-- Pondérer les combinaisons en fonction des fréquences et des tendances.
-- Donner plusieurs suggestions avec différents niveaux de probabilité.
-
----
-
-### **7. Vérification et ajustements**
-
-- Comparer les prédictions passées avec les tirages réels pour ajuster le modèle.
-- Tester différentes méthodes pour voir laquelle donne les meilleurs résultats.
