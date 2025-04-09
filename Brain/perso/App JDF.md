@@ -9,7 +9,7 @@
 - Repérer les numéros les plus souvent tirés (hot numbers).
 - Identifier les numéros les moins fréquents (cold numbers).
 - Identifier les tirages pour voir la moyenne de numéro chaud et de numéro froid
-- identifi
+- identifier des pattern de numero chaud et froid.
 
 ---
 
