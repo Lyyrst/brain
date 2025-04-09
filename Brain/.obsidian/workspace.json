@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/App JDF.md",
+                "file": "todo.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App JDF"
+              "title": "todo"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
-    "todo.md",
     "perso/App JDF.md",
+    "todo.md",
     "perso/Buy list.md",
     "Game Dev/Jumper.md",
     "perso/Listychef/Groceries List.md",

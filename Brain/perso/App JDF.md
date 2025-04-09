@@ -4,7 +4,7 @@
 
 ---
 
-### **2. Analyser la fréquence des numéros**
+### 2. Analyser la fréquence des numéros
 - Calculer la fréquence d’apparition de chaque numéro parmi les tirages passés.
 - Repérer les numéros les plus souvent tirés (hot numbers).
 - Identifier les numéros les moins fréquents (cold numbers).
