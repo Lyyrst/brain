@@ -1,7 +1,7 @@
 #perso
 #ListyChef 
 
-A web/mobile application to make and shares groceries list, recipes and planning your dishes.
+A mobile application to make and shares groceries list, recipes and planning your dishes.
 
 #### Main features
 
