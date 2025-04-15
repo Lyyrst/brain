@@ -9,6 +9,8 @@ A mobile application to make and shares groceries list, recipes and planning you
 - [[Recipes]]
 - [[Dinning Plan]]
 - [[ShareIt]]
+- [[Graphs & Stats]]
+
 
 #### App
 

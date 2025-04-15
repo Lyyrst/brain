@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "app design & features.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,6 +181,7 @@
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
     "perso/Listychef/ListyChef.md",
+    "Graphs & Stats.md",
     "app design & features.md",
     "todo.md",
     "perso/App JDF.md",
@@ -215,7 +217,6 @@
     "Game Dev",
     "perso",
     "SaaS",
-    "Dev/SCUB/production flow/snapshot.md",
     "Untitled.canvas",
     "Excalidraw",
     "Dev/testing"
