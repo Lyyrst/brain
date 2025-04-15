@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/App JDF.md",
-                "mode": "preview",
+                "file": "app design & features.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App JDF"
+              "title": "app design & features"
             }
           }
         ]
@@ -179,11 +179,12 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
+    "perso/Listychef/ListyChef.md",
+    "app design & features.md",
     "todo.md",
+    "perso/App JDF.md",
     "perso/Listychef/Groceries List.md",
     "perso/Listychef/Groceries items.md",
-    "perso/Listychef/ListyChef.md",
-    "perso/App JDF.md",
     "perso/Buy list.md",
     "Game Dev/Jumper.md",
     "perso/project FC.md",
@@ -215,7 +216,6 @@
     "perso",
     "SaaS",
     "Dev/SCUB/production flow/snapshot.md",
-    "Dev/testing/Automated Testing.md",
     "Untitled.canvas",
     "Excalidraw",
     "Dev/testing"
