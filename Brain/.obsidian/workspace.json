@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Listychef/Groceries List.md",
+                "file": "perso/App JDF.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Groceries List"
+              "title": "App JDF"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
-    "perso/Listychef/Groceries items.md",
-    "perso/Listychef/Groceries List.md",
-    "perso/Listychef/ListyChef.md",
     "todo.md",
+    "perso/Listychef/Groceries List.md",
+    "perso/Listychef/Groceries items.md",
+    "perso/Listychef/ListyChef.md",
     "perso/App JDF.md",
     "perso/Buy list.md",
     "Game Dev/Jumper.md",
