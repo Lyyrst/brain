@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app design & features.md",
+                "file": "perso/Listychef/app design & features.md",
                 "mode": "preview",
                 "source": false
               },
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,14 +179,14 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
-    "perso/Listychef/ListyChef.md",
-    "Graphs & Stats.md",
-    "app design & features.md",
-    "todo.md",
+    "perso/Listychef/Graphs & Stats.md",
+    "perso/Listychef/app design & features.md",
+    "perso/Listychef/Buy list.md",
     "perso/App JDF.md",
+    "todo.md",
+    "perso/Listychef/ListyChef.md",
     "perso/Listychef/Groceries List.md",
     "perso/Listychef/Groceries items.md",
-    "perso/Buy list.md",
     "Game Dev/Jumper.md",
     "perso/project FC.md",
     "Dev/Peer Video Internship I.md",

@@ -15,7 +15,7 @@
 
 ### **3. Étudier les combinaisons récurrentes**
 
-- Repérer les paires et triplets de numéros qui apparaissent souvent ensemble.
+- Repérer les paires qui apparaissent souvent ensemble.
 - Identifier les motifs récurrents dans les séquences gagnantes.
 
 ---
