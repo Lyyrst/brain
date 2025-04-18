@@ -6,6 +6,7 @@ A Grocery item will have:
 	- quantity (Int)
 	- Prices (float)
 	- Categories (Enum)
+	- Notes (String)
 
 ##### name:
 The item name. for example, bread.

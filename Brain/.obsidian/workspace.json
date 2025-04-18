@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Listychef/Groceries List.md",
-                "mode": "preview",
+                "file": "perso/Listychef/0.1/market study.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Groceries List"
+              "title": "market study"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ListyChef",
+                "query": "tag:#ListyChef01",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,17 +154,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +178,19 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
-    "todo.md",
+    "perso/Listychef/ListyChef.md",
+    "perso/Listychef/0.1/first figma design.md",
+    "perso/Listychef/0.1/market study.md",
     "perso/Listychef/Groceries items.md",
+    "perso/Listychef/Groceries List.md",
+    "perso/Listychef/0.1/ListyChef  v0.1.md",
+    "perso/Listychef/0.1",
+    "todo.md",
+    "Game Dev/Jumper.md",
+    "perso/App JDF.md",
     "perso/Listychef/app design & features.md",
     "perso/Listychef/Graphs & Stats.md",
     "perso/Listychef/Buy list.md",
-    "perso/App JDF.md",
-    "perso/Listychef/ListyChef.md",
-    "perso/Listychef/Groceries List.md",
-    "Game Dev/Jumper.md",
     "perso/project FC.md",
     "Dev/Peer Video Internship I.md",
     "perso/Listychef/ShareIt.md",
@@ -204,11 +207,8 @@
     "SaaS/Cyber Sucrity.md",
     "Dev/SCUB/production flow/Automated Changelog.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
-    "Dev/SCUB/production flow/rc-version.md",
-    "Dev/SCUB/production flow/Production flow.md",
     "Game Dev/assets/blockout_exemple_2.jpg",
     "Game Dev/assets/blockout_exemple_1.jpg",
-    "Game Dev/level design/Block-Out.md",
     "Game Dev/assets",
     "Game Dev/level design",
     "Game Dev/Blender",
@@ -217,7 +217,6 @@
     "perso",
     "SaaS",
     "Untitled.canvas",
-    "Excalidraw",
-    "Dev/testing"
+    "Excalidraw"
   ]
 }
