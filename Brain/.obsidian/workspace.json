@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "perso/Money Money.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,10 +193,10 @@
   },
   "active": "77fc5ba244e2568c",
   "lastOpenFiles": [
+    "perso/Money Money.md",
     "todo.md",
     "perso/App JDF.md",
     "perso/project FC.md",
-    "perso/Money Money.md",
     "perso/Listychef/ListyChef.md",
     "perso/Listychef/Market Study/Market Study.md",
     "perso/Listychef/Market Study/AnyList.md",
