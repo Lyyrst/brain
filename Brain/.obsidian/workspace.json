@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "perso/Money Money.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Money Money"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "todo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77fc5ba244e2568c",
+  "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
-    "perso/Money Money.md",
     "todo.md",
+    "perso/Money Money.md",
     "perso/App JDF.md",
     "perso/project FC.md",
     "perso/Listychef/ListyChef.md",
