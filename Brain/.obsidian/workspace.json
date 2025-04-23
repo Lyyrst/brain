@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Money Money.md",
-                "mode": "preview",
+                "file": "todo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Money Money"
+              "title": "todo"
             }
           },
           {
@@ -192,8 +192,10 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
-    "todo.md",
+    "perso/Listychef/app design & features.md",
     "perso/Money Money.md",
+    "perso/Listychef/Market Study/OurGroceries.md",
+    "todo.md",
     "perso/App JDF.md",
     "perso/project FC.md",
     "perso/Listychef/ListyChef.md",
@@ -204,7 +206,6 @@
     "perso/Listychef/Market Study/Bring.md",
     "perso/Listychef/Market Study/Mealime.md",
     "perso/Listychef/Market Study/Listonic.md",
-    "perso/Listychef/Market Study/OurGroceries.md",
     "perso/Listychef/Market Study",
     "perso/Listychef/0.1/first figma design.md",
     "perso/Listychef/Groceries items.md",
@@ -212,7 +213,6 @@
     "perso/Listychef/0.1/ListyChef  v0.1.md",
     "perso/Listychef/0.1",
     "Game Dev/Jumper.md",
-    "perso/Listychef/app design & features.md",
     "perso/Listychef/Graphs & Stats.md",
     "perso/Listychef/Buy list.md",
     "Dev/Peer Video Internship I.md",
