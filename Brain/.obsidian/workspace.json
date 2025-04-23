@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Money Money.md",
-                "mode": "preview",
+                "file": "todo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Money Money"
+              "title": "todo"
             }
           }
         ],
