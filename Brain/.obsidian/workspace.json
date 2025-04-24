@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Listychef/Market Study/Bring.md",
-                "mode": "preview",
+                "file": "todo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bring"
+              "title": "todo"
             }
           },
           {
@@ -192,9 +192,9 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
+    "perso/Listychef/Market Study/Bring.md",
     "perso/Listychef/Market Study/OurGroceries.md",
     "perso/Listychef/Market Study.md",
-    "perso/Listychef/Market Study/Bring.md",
     "perso/Listychef/Market Study/fidme courses.md",
     "todo.md",
     "perso/Listychef/app design & features.md",
