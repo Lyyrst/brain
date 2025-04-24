@@ -10,7 +10,7 @@
 	-add unexistant item from search bar
 	-recipes has ingredients, steps and personnal notes
 	-double tap option
-	-keep screen on options while cooking or always
+	-keep screen on, options while cooking or always
 	-quantity options for recipes
 	-alexa support
 	-import recipe from web
