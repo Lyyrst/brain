@@ -18,4 +18,4 @@ Study will be done following these steps:
 4. [[AnyList]]
 5. [[Bring]]
 6. [[fidme courses]]
-7. [[List de courses]]
+7. [[Liste de courses]]
