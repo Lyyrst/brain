@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "Game Dev/Jumper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Jumper"
             }
           },
           {
@@ -192,6 +192,7 @@
   },
   "active": "ad3024a742c3aabd",
   "lastOpenFiles": [
+    "todo.md",
     "perso/Listychef/Market Study/OurGroceries.md",
     "perso/Listychef/Market Study/Mealime.md",
     "perso/Listychef/Market Study/Listonic.md",
@@ -199,7 +200,6 @@
     "perso/Listychef/Market Study/fidme courses.md",
     "perso/Listychef/Market Study/AnyList.md",
     "perso/Listychef/Market Study/Bring.md",
-    "todo.md",
     "perso/Listychef/Market Study.md",
     "perso/Listychef/app design & features.md",
     "perso/Money Money.md",

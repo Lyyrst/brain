@@ -2,6 +2,8 @@
 
 ### **Todo**
 -> Animations:
+
+	-throw une platform
 	- grapplin
 	- wall silde
 	- wall jump
