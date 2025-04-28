@@ -1,11 +1,3 @@
-- [[App JDF]]
-
-- [[ListyChef]]
-
-- [[project FC]]
-
-- [[Jumper]]
-
 #### SCUB
 
 -> solyon a deja un Dockerfile
