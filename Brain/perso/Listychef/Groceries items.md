@@ -5,7 +5,7 @@ A Grocery item will have:
 	- name (String)
 	- quantity (Int)
 	- Prices (float)
-	- Categories (Enum)
+	- Categories (String)
 	- Notes (String)
 
 ##### name:
@@ -19,4 +19,4 @@ With this feature you can defined the order you pick items in the shop, so you'r
 ##### price:
 It's price. for example, 1.5$.
 ##### Categories:
-The categories of the item. for example, Vegetables.
+The categories of the item. for example, Vegetables. Editable and sortable
