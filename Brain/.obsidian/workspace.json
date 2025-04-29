@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "260fbbc5acb60aec",
+        "id": "724104999f1fc01d",
         "type": "tabs",
         "children": [
           {
-            "id": "15f4b5759cb9bf0b",
+            "id": "fc825bb9d5d3c3f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Money Money.md",
-                "mode": "preview",
+                "file": "todo.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Money Money"
+              "title": "todo"
             }
           }
         ]
@@ -176,12 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15f4b5759cb9bf0b",
+  "active": "fc825bb9d5d3c3f1",
   "lastOpenFiles": [
+    "perso/Listychef/0.7/ListyChef v0.7 - Dinning plan.md",
+    "todo.md",
+    "perso/Money Money.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
     "perso/Listychef/ListyChef.md",
     "perso/Listychef/0.4/ListyChef v0.4 - Shared List.md",
-    "perso/Listychef/0.7/ListyChef v0.7 - Dinning plan.md",
     "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/Market Study/Market Study.md",
     "perso/Listychef/features/Groceries items.md",
@@ -202,7 +204,6 @@
     "perso/Listychef/features/Groceries List.md",
     "perso/Listychef/features",
     "perso/Listychef/features/Recipes.md",
-    "todo.md",
     "perso/Listychef/0.2",
     "perso/Listychef/Market Study/OurGroceries.md",
     "perso/Listychef/Market Study/Listonic.md",
@@ -210,7 +211,6 @@
     "perso/Listychef/Market Study/fidme courses.md",
     "perso/Listychef/Market Study/Bring.md",
     "perso/Listychef/Market Study/AnyList.md",
-    "perso/Listychef/Market Study/Mealime.md",
     "perso/Listychef/Market Study",
     "perso/Listychef/0.1",
     "perso/Listychef",

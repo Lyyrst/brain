@@ -1,4 +1,4 @@
 #### SCUB
 
--> solyon a deja un Dockerfile
--> images providers externe
+-> integration version dans le pom
+-> generali variable identifier quel provider jouer
