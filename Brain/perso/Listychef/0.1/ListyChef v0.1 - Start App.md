@@ -23,7 +23,7 @@
 -> Grocery Lists:
 - can be **add**, **modify**, **delete** and **read**.
 - List on the **List Home page** and modify on the **In-List Page**
-- sorted by Categories, prices, alphabetical
+- sorted by Categories
 - total prices
 -  checked item dont disappear, they just go to the bottom
 - input field to add item
