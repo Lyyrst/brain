@@ -12,7 +12,7 @@ A mobile application to make and shares groceries list, recipes and planning you
 - [[ListyChef v0.6 - Recipes]]
 - [[ListyChef v0.5 - Improvement]]
 - [[ListyChef v0.7 - Dinning plan]]
-- [[ListyChef v0.7 - Dinning plan]]
+- [[ListyChef v0.8 - personalizer]]
 
 #### Main features
 
