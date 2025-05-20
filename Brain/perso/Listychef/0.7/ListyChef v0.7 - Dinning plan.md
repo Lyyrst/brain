@@ -2,8 +2,7 @@
 
 ## Global objectives
 
-**Recipes** improvement
-Global improvement
+**Dinning plan**
 
 ### Features
 
@@ -18,5 +17,5 @@ Global improvement
 - add field can now add recipe
 - suggestions on creation
 
-- Prints recipes
-- shared recipes on txt format
+-> Dinning Plan:
+ to design

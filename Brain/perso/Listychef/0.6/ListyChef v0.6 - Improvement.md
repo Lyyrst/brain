@@ -1,8 +1,9 @@
-#ListyChef05
+#ListyChef06
 
 ## Global objectives
 
-**Recipes** improvement
+**Recipes** improvement.
+**search engine**
 Global improvement
 
 ### Features
@@ -14,6 +15,7 @@ Global improvement
 -> profile button:
 
 -> Grocery items:
+- filtered list by categories or tags
 - on delete it show linked list and recipe
 
 -> Grocery Lists:
@@ -21,5 +23,6 @@ Global improvement
 - suggestions on creation
 
 -> Recipes:
+- recipes
 - Prints recipes
 - shared recipes on txt format

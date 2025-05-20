@@ -9,8 +9,8 @@ A mobile application to make and shares groceries list, recipes and planning you
 - [[ListyChef v0.2 - Improve 0.1]]
 - [[ListyChef v0.3 - Account]]
 - [[ListyChef v0.4 - Shared List]]
-- [[ListyChef v0.6 - Recipes]]
-- [[ListyChef v0.5 - Improvement]]
+- [[ListyChef v0.5 - Recipes]]
+- [[ListyChef v0.6 - Improvement]]
 - [[ListyChef v0.7 - Dinning plan]]
 - [[ListyChef v0.8 - personalizer]]
 
