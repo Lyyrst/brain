@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Money Money.md",
+                "file": "perso/Listychef/ListyChef.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Money Money"
+              "title": "ListyChef"
             }
           }
         ]
@@ -178,6 +178,8 @@
   },
   "active": "fc825bb9d5d3c3f1",
   "lastOpenFiles": [
+    "perso/App JDF.md",
+    "perso/Money Money.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
     "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.8/ListyChef v0.8 - personalizer.md",
@@ -186,13 +188,11 @@
     "perso/Listychef/0.4/ListyChef v0.4 - Shared List.md",
     "perso/Listychef/0.5/ListyChef v0.5 - Recipes.md",
     "perso/Listychef/0.3/ListyChef v0.3 - Account.md",
-    "perso/Money Money.md",
     "perso/Listychef/0.8",
     "todo.md",
     "perso/Listychef/0.1/first figma design.md",
     "perso/Listychef/0.1/ListyChef figma - 0.1.md",
     "perso/Listychef/ListyChef.md",
-    "perso/App JDF.md",
     "perso/Listychef/Market Study/Market Study.md",
     "perso/Listychef/features/Groceries items.md",
     "perso/Listychef/0.7",
