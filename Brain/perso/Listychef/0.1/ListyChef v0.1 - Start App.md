@@ -19,6 +19,10 @@
 -> Grocery items:
 - can be **add**, **modify**, **delete** and **read**.
 - List on the **Item Home page** and modify on the **Item Modify Page**
+- modify pages:
+	- save button always here but grised
+	- put category color on top bar
+	- moove category icon on label row
 
 -> Grocery Lists:
 - can be **add**, **modify**, **delete** and **read**.
