@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Money Money.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Money Money"
+              "title": "todo"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "fc825bb9d5d3c3f1",
   "lastOpenFiles": [
+    "perso/Money Money.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
     "perso/Listychef/0.1/first figma design.md",
     "todo.md",
@@ -189,7 +190,6 @@
     "Genety/Content (Videos & articles).md",
     "Genety/Community & open-source.md",
     "Genety",
-    "perso/Money Money.md",
     "perso/App JDF.md",
     "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.8/ListyChef v0.8 - personalizer.md",
