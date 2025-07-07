@@ -1,42 +1,76 @@
 #aurelie
 
-## PHASE 1 : Découverte & bases du métier (1 mois)
+## PHASE 1 : Découverte & bases du métier
 
-### ⏱ Temps estimé : 4 à 6 semaines (~56h)
+### ⏱ Temps estimé : 1 à 2 semaines (~20h)
 
-#### 🎯 Objectifs :
+---
 
-- Comprendre ce qu’est le métier de UX/UI Designer
-- Connaître les étapes du processus de design UX
-- Faire la distinction UX / UI
+### 🎯 Objectifs pédagogiques :
 
-#### 🧠 À apprendre (dans l’ordre) :
+Comprendre les rôles du **UX Designer** et du **UI Designer**
 
-1. **C’est quoi l’UX et l’UI ?**  
-    → Lire des articles de base, vidéo introductive
-    
-2. **Le Design Thinking**  
-    → 5 étapes : empathie, définition, idéation, prototypage, test
-    
-3. **Cycle complet d’un projet UX/UI**
-    
+- Assimiler les **5 étapes du Design Thinking**
+- Avoir une vue d’ensemble du **processus complet UX/UI**
 
-### 📚 Ressources :
+---
 
-- 📘 Livre : _The Design of Everyday Things_ – Don Norman  
-    ➜ Lien Amazon FR
-    
-- 🎥 Vidéo : [UX vs UI - AJ&Smart (YouTube)](https://youtu.be/TcF4xjFTOs8)
-    
-- 🖥️ Cours : [Google UX Design - Coursera](https://www.coursera.org/professional-certificates/google-ux-design) _(Gratuit pendant 7 jours, puis payant – très bon contenu)_
-    
-- 📖 Article : [UX Design Process Guide – Adobe XD Ideas](https://xd.adobe.com/ideas/process/ux-design-process/)
-    
+## 🧠 À apprendre (dans cet ordre) :
 
-### 🎯 Mini projet :
+### 1. **C’est quoi l’UX et l’UI ?**
 
--> Faire une fiche (avec Figma ou Notion par exemple) avec toutes les étapes du processus UX et une synthèse de ce que tu as compris
+- Comprendre les différences fondamentales entre UX et UI
+- Savoir ce que fait un UX/UI Designer au quotidien
 
+📹 **Vidéos** :
+
+- [UX vs UI : Quelle est la différence ?](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
+- [UX vs UI Explained Simply (Maex, 6 min, en anglais sous-titré)](https://youtu.be/9BdtGjoIN4E)
+
+---
+
+### 2. **Le Design Thinking**
+
+- Le modèle en 5 étapes : empathie, définition, idéation, prototypage, test
+
+📹 **Vidéos** :
+
+- [Design Thinking expliqué en 5 minutes (IBM Design, sous-titres FR)](https://www.youtube.com/watch?v=_r0VX-aU_T8)
+- [Design Thinking par Google (Sprint méthode AJ&Smart)](https://www.youtube.com/watch?v=V8eLdbKXGzk)
+
+---
+
+### 3. **Le processus UX/UI complet**
+
+Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itérations
+
+📹 **Vidéos** :
+
+- [Design Process](https://www.youtube.com/watch?v=rUUaNWD_wNs)
+- [The UX design process, explained](# Design Process)
+
+
+---
+
+## 🎨 Mini-projets
+
+### ✅ Mini-projet 1 (de base) :
+
+**Créer une fiche de synthèse UX/UI dans Miro ou Figma**
+
+- Éléments à inclure :
+    - Différence UX vs UI (avec exemples)
+    - Schéma du Design Thinking (5 étapes)
+    - Schéma du processus UX/UI complet (7 à 9 étapes selon les sources)
+
+📌Objectif : créer ta première documentation claire et visuelle t'approprier la logique du métier et un **support pédagogique que tu peux réutiliser**
+
+---
+
+## 💡 Tips supplémentaires
+
+- Note toutes tes **réflexions personnelles** : ce que tu comprends, ce qui t'inspire, ce qui te semble flou
+- Commence à suivre des designers sur les reseaux pour t’imprégner du langage métier
 ---
 
 ## 🔹 PHASE 2 : UX Design approfondi (2 à 3 mois)
