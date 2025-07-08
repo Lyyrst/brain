@@ -1,6 +1,6 @@
 #aurelie
 
-## PHASE 1 : Découverte & bases du métier
+## ## PHASE 1 : Découverte & bases du métier
 
 ### ⏱ Temps estimé : 1 à 2 semaines (~20h)
 
@@ -8,53 +8,50 @@
 
 ### 🎯 Objectifs pédagogiques :
 
-Comprendre les rôles du **UX Designer** et du **UI Designer**
+Comprendre les rôles du **UX Designer** et du **UI Designer**
 
-- Assimiler les **5 étapes du Design Thinking**
-- Avoir une vue d’ensemble du **processus complet UX/UI**
+- Assimiler les **5 étapes du Design Thinking**
+- Avoir une vue d’ensemble du **processus complet UX/UI**
 
 ---
 
 ## 🧠 À apprendre (dans cet ordre) :
 
-### 1. **C’est quoi l’UX et l’UI ?**
+### 1. **C’est quoi l’UX et l’UI ?**
 
 - Comprendre les différences fondamentales entre UX et UI
 - Savoir ce que fait un UX/UI Designer au quotidien
 
-📹 **Vidéos** :
+📹 **Vidéos** :
 
 - [UX vs UI : Quelle est la différence ?](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
 - [UX vs UI Explained Simply (Maex, 6 min, en anglais sous-titré)](https://youtu.be/9BdtGjoIN4E)
 
 ---
 
-### 2. **Le Design Thinking**
+### 2. **Le Design Thinking**
 
 - Le modèle en 5 étapes : empathie, définition, idéation, prototypage, test
 
-📹 **Vidéos** :
+📹 **Vidéos** :
 
 - [Design Thinking expliqué en 5 minutes (IBM Design, sous-titres FR)](https://www.youtube.com/watch?v=_r0VX-aU_T8)
 - [Design Thinking par Google (Sprint méthode AJ&Smart)](https://www.youtube.com/watch?v=V8eLdbKXGzk)
 
 ---
 
-### 3. **Le processus UX/UI complet**
+### 3. **Le processus UX/UI complet**
 
 Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itérations
 
-📹 **Vidéos** :
+📹 **Vidéos** :
 
 - [Design Process](https://www.youtube.com/watch?v=rUUaNWD_wNs)
 - [The UX design process, explained](# Design Process)
 
-
 ---
 
 ## 🎨 Mini-projets
-
-### ✅ Mini-projet 1 (de base) :
 
 **Créer une fiche de synthèse UX/UI dans Miro ou Figma**
 
@@ -63,17 +60,17 @@ Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itéra
     - Schéma du Design Thinking (5 étapes)
     - Schéma du processus UX/UI complet (7 à 9 étapes selon les sources)
 
-📌Objectif : créer ta première documentation claire et visuelle t'approprier la logique du métier et un **support pédagogique que tu peux réutiliser**
+📌Objectif : créer ta première documentation claire et visuelle t'approprier la logique du métier et un **support pédagogique que tu peux réutiliser**
 
 ---
 
 ## 💡 Tips supplémentaires
 
-- Note toutes tes **réflexions personnelles** : ce que tu comprends, ce qui t'inspire, ce qui te semble flou
+- Note toutes tes **réflexions personnelles** : ce que tu comprends, ce qui t'inspire, ce qui te semble flou
 - Commence à suivre des designers sur les reseaux pour t’imprégner du langage métier
 ---
 
-## 🔹 PHASE 2 : UX Design approfondi (2 à 3 mois)
+## 🔹 PHASE 2 : UX Design approfondi
 
 ### ⏱ Temps estimé : 8 à 10 semaines (~112h)
 
@@ -128,7 +125,7 @@ Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itéra
 
 ---
 
-## 🔹 PHASE 3 : **UI Design & Design Systems** (2 à 3 mois)
+## 🔹 PHASE 3 : **UI Design & Design Systems**
 
 ### ⏱ Temps estimé : 8 à 10 semaines (~112h)
 
@@ -177,7 +174,7 @@ Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itéra
 
 ---
 
-## 🔹 PHASE 4 : **Prototypage + notions d'intégration** (1.5 mois)
+## 🔹 PHASE 4 : **Prototypage + notions d'intégration**
 
 ### ⏱ Temps estimé : 6 semaines (~84h)
 
@@ -218,7 +215,7 @@ Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itéra
 
 ---
 
-## 🔹 PHASE 5 : **Portfolio & identité pro** (1.5 mois)
+## 🔹 PHASE 5 : **Portfolio & identité pro**
 
 ### ⏱ Temps estimé : 6 semaines (~84h)
 
@@ -259,6 +256,6 @@ Comprendre les étapes clés : recherche, analyse, wireframing, UI, test, itéra
 
 | Jour               | Tâches                                | Durée   |
 | ------------------ | ------------------------------------- | ------- |
-| Lundi soir         | Regarder vidéos ou cours, lecture ?   | 2h      |
+| Lundi soir         | Regarder vidéos ou cours              | 2h      |
 | Mercredi soir      | Exercice pratique (persona, UI, etc.) | 2h      |
 | Samedi ou Dimanche | Projet + pratique                     | 8 à 10h |
