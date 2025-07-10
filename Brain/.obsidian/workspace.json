@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ListyChef v0.2 - Improve 0.1"
+              "title": "todo"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "e570291339c6ead1",
   "lastOpenFiles": [
+    "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
     "todo.md",
     "perso/Roadmap ui ux.md",
@@ -203,7 +204,6 @@
     "Genety/Community & open-source.md",
     "Genety",
     "perso/App JDF.md",
-    "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.8/ListyChef v0.8 - personalizer.md",
     "perso/Listychef/0.7/ListyChef v0.7 - Dinning plan.md",
     "perso/Listychef/0.6/ListyChef v0.6 - Improvement.md",
