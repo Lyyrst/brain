@@ -16,6 +16,7 @@
 - enable open last list on start
 
 -> Grocery items:
+- add tags
 - double tap to check item
 - categories editable from modify an item
 
