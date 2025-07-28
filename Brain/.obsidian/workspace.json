@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be07a9aeeedc9cbb",
+        "id": "158ba0509fc1f05a",
         "type": "tabs",
         "children": [
           {
-            "id": "e570291339c6ead1",
+            "id": "203ed6303e1bc2b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "perso/Money Money.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Money Money"
+              "title": "New tab"
             }
           }
         ]
@@ -176,12 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e570291339c6ead1",
+  "active": "203ed6303e1bc2b4",
   "lastOpenFiles": [
+    "perso/Money Money.md",
+    "perso/Roadmap ui ux.md",
+    "Untitled.md",
+    "suivi des temps.md",
     "todo.md",
     "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
-    "perso/Roadmap ui ux.md",
     "perso/project FC.md",
     "perso/lu52387co6iw.tmp",
     "perso/lu52387co6iq.tmp",
@@ -189,11 +188,9 @@
     "perso/lu52387co6ik.tmp",
     "perso/lu52387co6ih.tmp",
     "perso/lu52387co6ef.tmp",
-    "Untitled.md",
     "perso/ui_ux roadmap aurelie phase 1.odt",
     "perso/lu52387co5db.tmp",
     "Untitled.html",
-    "perso/Money Money.md",
     "perso/Listychef/0.1/first figma design.md",
     "perso/Listychef/0.1/ListyChef figma - 0.1.md",
     "perso/Listychef/Design mistakes.md",
