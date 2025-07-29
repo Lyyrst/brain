@@ -11,10 +11,14 @@
             "id": "203ed6303e1bc2b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "suivi des temps.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "suivi des temps"
             }
           }
         ]
