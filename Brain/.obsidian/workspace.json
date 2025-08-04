@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "suivi des temps"
             }
-          },
-          {
-            "id": "b62ffe43969623ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b62ffe43969623ad",
+  "active": "203ed6303e1bc2b4",
   "lastOpenFiles": [
     "Untitled.md",
     "suivi des temps.md",
