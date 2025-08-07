@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suivi des temps.md",
+                "file": "perso/Roadmap ui ux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "suivi des temps"
+              "title": "Roadmap ui ux"
+            }
+          },
+          {
+            "id": "b7b2660270dc1121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "perso/Roadmap ui ux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap ui ux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,25 +191,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "203ed6303e1bc2b4",
+  "active": "b7b2660270dc1121",
   "lastOpenFiles": [
-    "Untitled.md",
-    "suivi des temps.md",
-    "perso/Money Money.md",
+    "perso/lu2309758y6j.tmp",
+    "perso/ui_ux roadmap.odt",
+    "perso/lu2309758y6d.tmp",
+    "perso/lu2309758y6a.tmp",
+    "perso/lu2309758y64.tmp",
+    "phase 2.md",
     "perso/Roadmap ui ux.md",
+    "perso/project FC.md",
+    "suivi des temps.md",
     "todo.md",
+    "perso/Money Money.md",
     "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
-    "perso/project FC.md",
     "perso/lu52387co6iw.tmp",
     "perso/lu52387co6iq.tmp",
     "perso/lu52387co6in.tmp",
     "perso/lu52387co6ik.tmp",
     "perso/lu52387co6ih.tmp",
     "perso/lu52387co6ef.tmp",
-    "perso/ui_ux roadmap aurelie phase 1.odt",
-    "perso/lu52387co5db.tmp",
-    "Untitled.html",
     "perso/Listychef/0.1/first figma design.md",
     "perso/Listychef/0.1/ListyChef figma - 0.1.md",
     "perso/Listychef/Design mistakes.md",
@@ -203,7 +220,6 @@
     "Genety/Genety.md",
     "Genety/Content (Videos & articles).md",
     "Genety/Community & open-source.md",
-    "Genety",
     "perso/App JDF.md",
     "perso/Listychef/0.8/ListyChef v0.8 - personalizer.md",
     "perso/Listychef/0.7/ListyChef v0.7 - Dinning plan.md",
@@ -213,7 +229,6 @@
     "perso/Listychef/0.3/ListyChef v0.3 - Account.md",
     "perso/Listychef/Market Study/Market Study.md",
     "perso/Listychef/features/Groceries items.md",
-    "perso/Listychef/features/Graphs & Stats.md",
     "Dev/SCUB/production flow/release pipelines.canvas",
     "Game Dev/assets/blockout_exemple_2.jpg",
     "Game Dev/assets/blockout_exemple_1.jpg",
