@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perso/Roadmap ui ux.md",
+                "file": "suivi des temps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap ui ux"
+              "title": "suivi des temps"
             }
           }
         ],
@@ -193,16 +193,16 @@
   },
   "active": "b7b2660270dc1121",
   "lastOpenFiles": [
+    "todo.md",
+    "perso/Roadmap ui ux.md",
     "perso/lu2309758y6j.tmp",
     "perso/ui_ux roadmap.odt",
     "perso/lu2309758y6d.tmp",
     "perso/lu2309758y6a.tmp",
     "perso/lu2309758y64.tmp",
     "phase 2.md",
-    "perso/Roadmap ui ux.md",
     "perso/project FC.md",
     "suivi des temps.md",
-    "todo.md",
     "perso/Money Money.md",
     "perso/Listychef/0.2/ListyChef v0.2 - Improve 0.1.md",
     "perso/Listychef/0.1/ListyChef v0.1 - Start App.md",
@@ -211,7 +211,6 @@
     "perso/lu52387co6in.tmp",
     "perso/lu52387co6ik.tmp",
     "perso/lu52387co6ih.tmp",
-    "perso/lu52387co6ef.tmp",
     "perso/Listychef/0.1/first figma design.md",
     "perso/Listychef/0.1/ListyChef figma - 0.1.md",
     "perso/Listychef/Design mistakes.md",
