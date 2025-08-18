@@ -12,3 +12,6 @@ jeudi 9992
 
 11/08 -> 13/08
 lundi 10187
+mardi 0.5 KO recette
+mardi 0.5 9657
+mercredi 9993
