@@ -1,4 +1,5 @@
 #ListyChef 
+#applications
 
 A mobile application to make and shares groceries list, recipes and planning your dishes.
 

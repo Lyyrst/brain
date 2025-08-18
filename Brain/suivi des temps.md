@@ -15,3 +15,6 @@ lundi 10187
 mardi 0.5 KO recette
 mardi 0.5 9657
 mercredi 9993
+
+18/08 -> 22/08
+lundi 9993
