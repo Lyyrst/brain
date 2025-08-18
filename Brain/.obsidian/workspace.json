@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple daily tracker.md",
-                "mode": "source",
+                "file": "perso/Simple daily tracker.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -178,10 +178,10 @@
   },
   "active": "fad5597fe32515de",
   "lastOpenFiles": [
+    "perso/Simple daily tracker.md",
     "suivi des temps.md",
     "phase 2.md",
     "perso/Roadmap ui ux.md",
-    "Simple daily tracker.md",
     "perso/Listychef/ListyChef.md",
     "perso/App JDF.md",
     "perso/Money Money.md",
