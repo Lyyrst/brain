@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suivi des temps.md",
+                "file": "suivi des temps perso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "suivi des temps"
+              "title": "suivi des temps perso"
             }
           }
         ],
@@ -208,10 +208,10 @@
   },
   "active": "16b6c862277516a6",
   "lastOpenFiles": [
+    "Dev/SCUB/suivi des temps aout.md",
     "suivi des temps perso.md",
     "Untitled.md",
     "todo.md",
-    "suivi des temps.md",
     "perso/Simple daily tracker.md",
     "phase 2.md",
     "perso/Roadmap ui ux.md",

@@ -21,5 +21,5 @@ mercredi 9993
 lundi 9993
 mardi: rang de naissance 0.5 + 0.5 imprevu
 mercredi: rang de naissance 1
-jeudi -> 10012 0.25 + 0.25 rang de naissance + 0.25 support henri
-vendredi -> 0.5 9191
+jeudi -> 10012 0.25 + 0.25 support henri
+vendredi -> 0.5 9191 + 0.5 mr
