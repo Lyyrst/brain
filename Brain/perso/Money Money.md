@@ -5,10 +5,10 @@
 | Done | Name       | Budget | Buy Price | Total budget | Total Price |
 | ---- | ---------- | ------ | --------- | ------------ | ----------- |
 | 1    | Bag        | 50     | 40        | 50           | 40          |
-| 1    | Underwear  | 100    | 129       | 150          | 169         |
-| 0    | Clothes    | 200    | 95.22     | 350          | -           |
-| 0    | Shoes      | 60     | -         | 410          | -           |
-| 0    | Headphones | 150    | -         | 560          | -           |
+| 1    | Underwear  | 100    | 130       | 150          | 170         |
+| 0    | Clothes    | 200    | 170       | 350          | 340         |
+| 0    | Shoes      | 60     | 150       | 410          | 490         |
+| 0    | Headphones | 150    | 69        | 560          | 559         |
 | 0    | Phone      | 500    | -         | 1060         | -           |
 
 ### Bourse

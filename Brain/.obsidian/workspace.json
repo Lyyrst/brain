@@ -13,44 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suivi des temps.md",
+                "file": "Dev/SCUB/suivi des temps aout.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "suivi des temps"
+              "title": "suivi des temps aout"
             }
           },
           {
-            "id": "6a778a237015559f",
+            "id": "504600724e257c5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suivi des temps perso.md",
+                "file": "suivi des temps septembre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "suivi des temps perso"
-            }
-          },
-          {
-            "id": "16b6c862277516a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "suivi des temps perso.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "suivi des temps perso"
+              "title": "suivi des temps septembre"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,24 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clean Code/assets/Clean Code.pdf"
+                "file": "suivi des temps septembre.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clean Code"
-            }
-          },
-          {
-            "id": "1d548bb866dde240",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of suivi des temps septembre"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,26 +181,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "16b6c862277516a6",
+  "active": "504600724e257c5b",
   "lastOpenFiles": [
+    "todo.md",
+    "suivi des temps septembre.md",
+    "perso/Temps perso.md",
+    "perso/Money Money.md",
+    "perso/App JDF.md",
+    "perso/Simple daily tracker.md",
+    "perso/Roadmap ui ux.md",
+    "perso/project FC.md",
+    "Dev/SCUB/suivi des temps aout.md",
     "Genety/Untitled.md",
     "Genety/Multiplayer design.md",
     "Genety/Board design POC.md",
-    "Dev/SCUB/suivi des temps aout.md",
-    "suivi des temps perso.md",
-    "Untitled.md",
-    "todo.md",
-    "perso/Simple daily tracker.md",
     "phase 2.md",
-    "perso/Roadmap ui ux.md",
     "perso/Listychef/ListyChef.md",
-    "perso/App JDF.md",
-    "perso/Money Money.md",
-    "perso/project FC.md",
     "perso/lu2309758y6j.tmp",
     "perso/ui_ux roadmap.odt",
     "perso/lu2309758y6d.tmp",

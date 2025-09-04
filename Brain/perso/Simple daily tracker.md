@@ -17,8 +17,6 @@ calendar: push or schedule tasks
 task list: manage your tasks
 graphs: tasks repartitions and stats about you
 
-
-
 👉 Design minimaliste, sans menus complexes : **1 écran par jour**. Navigation par swipe gauche/droite pour changer de jour.
 
 ---
